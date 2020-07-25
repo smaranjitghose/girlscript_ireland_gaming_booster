@@ -38,6 +38,6 @@ class Bird
     stroke(0,0,0); // Color of the outline of our bird object (Black)
     strokeWeight(2); // Thickness of the outline 
     fill(224, 218, 34); // Color of the interior of our bird object
-    ellipse(pos.x, pos.y, r*2, r*2); Shape of the bird object
+    ellipse(pos.x, pos.y, r*2, r*2); //Shape of the bird object
   }
 }
