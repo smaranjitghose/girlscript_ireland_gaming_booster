@@ -27,7 +27,7 @@ Gaming Booster is an intiative taken up the GirlScript Ireland chapter to upskil
 
 - Opening Ceremony
 - Community Bonding 
-- Download and install the processing editor[https://processing.org/download/]
+- Download and install the [processing editor](https://processing.org/download/)
 - Understand the syntax of processing
 - Build small animations
 - Attempt to code individual components of the flappy bird -
